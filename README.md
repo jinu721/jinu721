@@ -103,9 +103,7 @@ const jinan: Developer = {
 </div>
 </details>
 
-
-### 🌐 Connect with me
-### 🌐 Let's Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+### 🌐 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
 
 <div align="center">
   <a href="mailto:your.email@example.com" target="_blank">
@@ -129,43 +127,6 @@ const jinan: Developer = {
   <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
 </div>
 
-<!-- Alternative Fancy Version -->
-<div align="center">
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <a href="mailto:your.email@example.com">
-          <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
-        </a>
-        <br>Email
-      </td>
-      <td align="center" width="96">
-        <a href="https://linkedin.com/in/YourLinkedInProfile">
-          <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
-        </a>
-        <br>LinkedIn
-      </td>
-      <td align="center" width="96">
-        <a href="https://instagram.com/YourInstagramProfile">
-          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="Instagram" />
-        </a>
-        <br>Instagram
-      </td>
-      <td align="center" width="96">
-        <a href="https://t.me/YourTelegramProfile">
-          <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram" />
-        </a>
-        <br>Telegram
-      </td>
-      <td align="center" width="96">
-        <a href="https://YourWebsite.com">
-          <img src="https://www.svgrepo.com/show/416628/website-ui-web.svg" width="48" height="48" alt="Website" />
-        </a>
-        <br>Website
-      </td>
-    </tr>
-  </table>
-</div>
 
 <div align="center">
   <img height="120" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
