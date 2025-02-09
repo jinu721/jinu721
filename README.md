@@ -21,7 +21,6 @@ interface Developer {
     name: string;
     role: string;
     languages: string[];
-    architecture: string[];
     challenge: string;
 }
 
@@ -29,7 +28,6 @@ const jinan: Developer = {
     name: "Jinan",
     role: "Full Stack Engineer",
     languages: ["JavaScript", "TypeScript", "Java", "C"],
-    architecture: ["Microservices", "Cloud Native", "DevOps"],
     challenge: "Crafting scalable solutions while maintaining code elegance"
 };
 ```
