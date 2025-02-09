@@ -1,3 +1,9 @@
+<h1 align="center">Hi 👋, I'm Jinan</h1>
+<h3 align="center">A passionate Software Engineer building digital solutions that matter</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+</p>
+
 <div align="center">
   <img height="150" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 </div>
