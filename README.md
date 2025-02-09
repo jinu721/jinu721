@@ -8,29 +8,10 @@
   <img height="150" src="https://raw.githubusercontent.com/gist/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif"/>
 </div>
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=40&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Hi+👋+I'm+Jinan;Welcome+to+my+Profile" alt="Typing SVG" />
-</h1>
-
-<h3 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00C647&center=true&vCenter=true&width=435&lines=A+Passionate+Software+Engineer;Full+Stack+Developer;Cloud+Architecture+Enthusiast;Problem+Solver" alt="Typing SVG" />
-</h3>
 
 <br/>
 
-<div align="center">
-  
-  🔭 I'm currently working on **innovative web solutions**
-  
-  🌱 I'm continuously learning **Cloud Architecture & DevOps**
-  
-  ⚡ Fun fact: **I turn coffee into code ☕**
-  
-</div>
 
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
 
 ### 🚀 About Me
 
