@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jinan</h1>
-<h3 align="center">A passionate Software Engineer building digital solutions that matter</h3>
+<h3 align="center">"Whatever happens, happens for a reason"</h3>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Software+Engineer;Problem+Solver;Code+Craftsman" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=I+love+to+create+scalable+web+applications;I+love+robust+coding;I+prefer+Singleton+Pattern;I+prefer+Dependency+Injection" alt="Typing SVG" />
 </p>
 
 <div align="center">
@@ -104,7 +104,7 @@ const jinan: Developer = {
 </div>
 </details>
 
-### 🌐 Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+### 🌐 Connect with me
 
 <div align="center">
   <a href="mailto:your.email@example.com" target="_blank">
