@@ -103,30 +103,72 @@ const jinan: Developer = {
 </div>
 </details>
 
-### 📊 GitHub Analytics
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jinu721&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=jinu721&theme=tokyonight&hide_border=true" height="180"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jinu721&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" height="180"/>
-</div>
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=jinu721&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</div>
 
 ### 🌐 Connect with me
+### 🌐 Let's Connect! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
+
 <div align="center">
-  <a href="https://github.com/jinu721" target="_blank">
-    <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;"/>
-  </a>
   <a href="mailto:your.email@example.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt=mail style="margin-bottom: 5px;"/>
+    <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social" alt="Email" style="margin: 10px; border-radius: 50%;"/>
   </a>
+  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn" style="margin: 10px; border-radius: 50%;"/>
+  </a>
+  <a href="https://instagram.com/YourInstagramProfile" target="_blank">
+    <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=social" alt="Instagram" style="margin: 10px; border-radius: 50%;"/>
+  </a>
+  <a href="https://t.me/YourTelegramProfile" target="_blank">
+    <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&style=social" alt="Telegram" style="margin: 10px; border-radius: 50%;"/>
+  </a>
+  <a href="https://YourWebsite.com" target="_blank">
+    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&style=social" alt="Website" style="margin: 10px; border-radius: 50%;"/>
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png" />
+</div>
+
+<!-- Alternative Fancy Version -->
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="96">
+        <a href="mailto:your.email@example.com">
+          <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email" />
+        </a>
+        <br>Email
+      </td>
+      <td align="center" width="96">
+        <a href="https://linkedin.com/in/YourLinkedInProfile">
+          <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn" />
+        </a>
+        <br>LinkedIn
+      </td>
+      <td align="center" width="96">
+        <a href="https://instagram.com/YourInstagramProfile">
+          <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="48" height="48" alt="Instagram" />
+        </a>
+        <br>Instagram
+      </td>
+      <td align="center" width="96">
+        <a href="https://t.me/YourTelegramProfile">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" width="48" height="48" alt="Telegram" />
+        </a>
+        <br>Telegram
+      </td>
+      <td align="center" width="96">
+        <a href="https://YourWebsite.com">
+          <img src="https://www.svgrepo.com/show/416628/website-ui-web.svg" width="48" height="48" alt="Website" />
+        </a>
+        <br>Website
+      </td>
+    </tr>
+  </table>
+</div>
+
+<div align="center">
+  <img height="120" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
 
 ---
