@@ -108,16 +108,16 @@ const jinan: Developer = {
   <a href="mailto:your.email@example.com" target="_blank">
     <img src="https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=social" alt="Email" style="margin: 10px; border-radius: 50%;"/>
   </a>
-  <a href="https://linkedin.com/in/YourLinkedInProfile" target="_blank">
+  <a href="https://www.linkedin.com/in/abdul-jinan-776a14305/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&style=social" alt="LinkedIn" style="margin: 10px; border-radius: 50%;"/>
   </a>
   <a href="https://instagram.com/YourInstagramProfile" target="_blank">
     <img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&style=social" alt="Instagram" style="margin: 10px; border-radius: 50%;"/>
   </a>
-  <a href="https://t.me/YourTelegramProfile" target="_blank">
+  <a href="https://t.me/jinu721" target="_blank">
     <img src="https://img.shields.io/badge/telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&style=social" alt="Telegram" style="margin: 10px; border-radius: 50%;"/>
   </a>
-  <a href="https://YourWebsite.com" target="_blank">
+  <a href="https://jinu.site" target="_blank">
     <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white&style=social" alt="Website" style="margin: 10px; border-radius: 50%;"/>
   </a>
 </div>
