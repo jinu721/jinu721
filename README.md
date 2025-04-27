@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Jinan</h1>
 <h3 align="center">"Whatever happens, happens for a reason"</h3>
-<p align="center">
+<!-- <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E8B57&center=true&vCenter=true&width=600&lines=I+love+to+create+scalable+web+applications;I+love+robust+coding;I+prefer+Singleton+Pattern;I+prefer+Dependency+Injection" alt="Typing SVG" />
 </p>
 
 <div align="center">
    <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px">
-</div>
+</div> -->
 
 
 
