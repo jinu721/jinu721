@@ -44,6 +44,6 @@ To be on the other side of the screen.
 ---
 
 ### Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jinu721&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jinu721&theme=dark&hide_border=true" />
 
 </div>
