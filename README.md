@@ -1,5 +1,8 @@
-# Hei, I’m Jinan 
 
+
+<div align="center">
+
+# Hei, I’m Jinan 
 When I was a kid, I spent a lot of time with screens.
 
 Games, TV, small devices — I didn’t just use them.  
@@ -41,4 +44,6 @@ To be on the other side of the screen.
 ---
 
 ### Commit Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=jinu7211&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=jinu721&theme=dark)](https://git.io/streak-stats)
+
+</div>
