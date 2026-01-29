@@ -42,8 +42,3 @@ To build things instead of wondering how they work.
 To be on the other side of the screen.
 
 ---
-
-### Commit Streak
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jinu721&theme=dark&hide_border=true" />
-
-</div>
