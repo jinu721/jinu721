@@ -2,12 +2,20 @@
 
 # Hey, I'm Jinan
 
-I build with code.
+I am on a journey — not a short one.
 
-Managed by <a href="https://gitfort.vercel.app/">GitFort</a>
+I have fallen many times.
+I have started again, every time.
 
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jinu721&theme=dark&hide_border=true" width="200" />
+My dream is high.
+My will is higher.
 
-<br/>
+The top is never given.
+It is earned.
+
+And I will earn it.
+No matter how long it takes.
+
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=jinu721&theme=dark&hide_border=true" width="320" />
 
 </div>
